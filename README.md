@@ -1,5 +1,7 @@
 # MY PORTFOLIO - 01
 
+## Sample table tạo sẳn
+
 | Bài viết                                                                                 | Video                 |
 | ---------------------------------------------------------------------------------------- | --------------------- |
 | [Day 1: PREPARE THE WORKING ENVIRONMENT][day1]                                           | [Youtube][day1-video] |
